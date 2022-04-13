@@ -1,0 +1,7 @@
+1. Find the pixel values of the image if it has been coded in a) 5-bit resolution b) 3-bit resolution
+Explain the effect of image visual perception on changing the image intensity resolution with
+above parameters.
+2. Interpolate a pixel using Bilinear interpolation method at location (1.25,1.75) and find its
+Intensity value with 8-bit resolution image as given in Q.1 (4 Marks)
+3. Find the output image pixel value is hard thresholding function is applied on image given in Q.1 with threshold value as (mean – x) where x is LAST TWO DIGITS OF SCHOLAR NUMBER/100
+
